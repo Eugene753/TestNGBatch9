@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="8822" started-at="2021-05-15T23:01:58Z" finished-at="2021-05-15T23:02:06Z">
+    <groups>
+    </groups>
+    <test name="JavaBatch9TestNG" duration-ms="8822" started-at="2021-05-15T23:01:58Z" finished-at="2021-05-15T23:02:06Z">
+      <class name="com.TestNG.class01.LoginTest1">
+        <test-method status="PASS" signature="openBrowserAndLanchApp()[pri:0, instance:com.TestNG.class01.LoginTest1@1c53fd30]" name="openBrowserAndLanchApp" is-config="true" duration-ms="3310" started-at="2021-05-15T23:01:58Z" finished-at="2021-05-15T23:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndLanchApp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.TestNG.class01.LoginTest1@1c53fd30]" name="testLogin" duration-ms="1848" started-at="2021-05-15T23:02:01Z" finished-at="2021-05-15T23:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestNG.class01.LoginTest1@1c53fd30]" name="closeBrowser" is-config="true" duration-ms="623" started-at="2021-05-15T23:02:03Z" finished-at="2021-05-15T23:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowserAndLanchApp()[pri:0, instance:com.TestNG.class01.LoginTest1@1c53fd30]" name="openBrowserAndLanchApp" is-config="true" duration-ms="2397" started-at="2021-05-15T23:02:03Z" finished-at="2021-05-15T23:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndLanchApp -->
+        <test-method status="PASS" signature="validationOfTitle()[pri:0, instance:com.TestNG.class01.LoginTest1@1c53fd30]" name="validationOfTitle" duration-ms="15" started-at="2021-05-15T23:02:06Z" finished-at="2021-05-15T23:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationOfTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestNG.class01.LoginTest1@1c53fd30]" name="closeBrowser" is-config="true" duration-ms="605" started-at="2021-05-15T23:02:06Z" finished-at="2021-05-15T23:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TestNG.class01.LoginTest1 -->
+    </test> <!-- JavaBatch9TestNG -->
+  </suite> <!-- Default Suite -->
+</testng-results>
